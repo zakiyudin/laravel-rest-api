@@ -63,6 +63,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+### URL => 'http://localhost:8080/api/student'
+
 ### Get
 ![image](https://user-images.githubusercontent.com/42792502/190052906-da58156b-1d1b-4b68-81d4-4e973741c929.png)
 
